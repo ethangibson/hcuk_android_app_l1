@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Example App</string>
+
+    <string name="hello_world">Form</string>
+    <string name="action_settings">Settings</string>
+    <string name="formName">Your Name</string>
+    <string name="formEmail">E-mail</string>
+    <string name="formMessage">Message</string>
+    <string name="title_activity_dipslay_message">DipslayMessage</string>
+
+
+</resources>
+
+
+
